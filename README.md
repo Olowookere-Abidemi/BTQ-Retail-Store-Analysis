@@ -147,8 +147,8 @@ Perform detailed product audits. Improve quality assurance for top-selling SKUs 
 ### 🔁 Returns and Refunds Analysis
 
 <p>
-  <img src="./dashboard/return.png" alt="Return" width="48%" />
-  <img src="./dashboard/returns_by_reasons.png" alt="Reasons for Returns" width="48%" />
+  <img src="return.png" alt="Return" width="48%" />
+  <img src="./dashboard/returns_by_reason.png" alt="Reasons for Returns" width="48%" />
 </p>
 
 There was a total of 2,868 returns, accounting for 20% of all transactions, with a resulting return cost of $6.69 million. Out of these, 975 returns were approved for refunds, incurring a refund cost of $2.29 million. The top return reasons were: Late Delivery (619), Defective Product (583), Better Price Found (563), Wrong Product (557), and No Longer Needed (546).
@@ -161,7 +161,9 @@ Improve delivery timelines and packaging quality. Use return reasons data to ref
 
 ### 📈 Customer Acquisition & Retention
 
-![BTQ Customers Acquisition Trend](./dashboard/customer_trend.jpg)
+<p align="center">
+  <img src="dashboard/customer_trend.png" alt="BTQ Customers Acquisition Trend" width="70%" />
+</p>
 
 - **Total Customers**: 4,743 (4,712 active | 269 inactive)
 - **Trend**: Gradual growth until 2023, followed by a decline to 988 in 2024
@@ -174,7 +176,10 @@ To revamp customer retention strategies, the business should consider implementi
 
 ### 🧍‍♀️ High-Value Customer Contribution
 
-![BTQ Top Customers](./dashboard/top_customers.jpg)
+<p align="center">
+  <img src="dashboard/top_customers.png" alt="BTQ Top 5 Customers" width="70%" />
+</p>
+
 
 The Top 5 Customers contributed a total revenue of $163.98K, with the top customer, Jonathan Smith, accounting for $42.6K. The highest number of purchases was made by Jennifer Scott, who bought 47 units. Altogether, the top 5 customers purchased 199 units, with only 2 returns recorded among them.
 
@@ -186,7 +191,10 @@ Build a VIP rewards program. Profile these customers’ behaviours and use predi
 
 ### 💳 Payment Method Behaviour
 
-![BTQ Sales by Payment Method](./dashboard/sales_by_payment.jpg)
+<p align="center">
+  <img src="dashboard/sales_by_payment.png" alt="BTQ Sales by Payment Method" width="70%" />
+</p>
+
 
 **Insight**:  
 Revenue is evenly distributed across payment channels, indicating broad customer preferences. No single method dominates, and all must be retained to avoid losing potential sales.
@@ -196,7 +204,10 @@ Support all major payment methods. Offer small discounts for low-fee options (e.
 
 ### 📦 Product Category Overview
 
-![BTQ Sales by Product Careory](./dashboard/top_selling_products.jpg)
+<p align="center">
+  <img src="dashboard/product_performamce.png" alt="BTQ Sales by Product Category" width="70%" />
+</p>
+
 
 The top-performing category was Electronics, which generated a total revenue of $5.76 million. Despite high sales, it incurred a loss of $1.11 million. A total of 6,829 units were sold, and there were 452 returns recorded for this category.
 
